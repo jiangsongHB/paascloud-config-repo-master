@@ -40,8 +40,8 @@ spring:
         login-password: admin
   mail:
     host: smtp.qq.com
-    username: 3526866020@qq.com
-    password: js3583475
+    username: 413116708@qq.com
+    password: 100000a
     port: 465
     protocol: smtp
     test-connection: false
