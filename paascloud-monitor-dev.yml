@@ -12,8 +12,8 @@ spring:
         enabled: true
       notify:
         mail:
-          to: 278840584@qq.com
-          from: 3526866020@qq.com
+          to: 413116708@qq.com
+          from: 278840584@qq.com
       turbine:
         clusters: default
         location: paascloud-monitor
